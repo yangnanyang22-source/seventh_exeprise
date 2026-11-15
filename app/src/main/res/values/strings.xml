@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">杨楠2024110539</string>
+    <string name="music_list_title">设备中的音乐</string>
+    <string name="no_song_selected">尚未选择歌曲</string>
+    <string name="time_placeholder">00:00</string>
+    <string name="previous_song">上一首</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="stop">停止</string>
+    <string name="next_song">下一首</string>
+    <string name="unknown_artist">未知艺术家</string>
+    <string name="unknown_song">未知歌曲</string>
+    <string name="audio_permission_denied">没有音乐读取权限，无法显示歌曲列表</string>
+    <string name="no_music_found">设备中没有找到音乐文件</string>
+    <string name="playback_error">无法播放当前音频文件</string>
+    <string name="notification_channel_name">音乐播放</string>
+    <string name="notification_channel_description">显示当前正在播放的歌曲</string>
+    <string name="notification_ready">准备播放音乐</string>
+    <string name="notification_permission_denied">没有通知权限，通知栏将无法显示歌曲</string>
+</resources>
